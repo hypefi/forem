@@ -140,7 +140,7 @@
     "postscribe": "^2.0.8",
     "preact": "^10.6.4",
     "prop-types": "^15.8.1",
-    "pusher-js": "^7.0.3",
+    "pusher-js": "^8.0.0",
     "rails-erb-loader": "^5.5.2",
     "web-share-wrapper": "^0.2.2"
   },
